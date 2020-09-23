@@ -1,3 +1,7 @@
+# Expense Tracker For Couples
+
+Web application to track and split expenses between couples without joint accounts.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
